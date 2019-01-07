@@ -1,0 +1,17 @@
+Order 5 created
+AmericanPan pizza added to order 5
+Neapolitan pizza added to order 5
+Drink added to order 5
+PayCheck for order 5
+	AmericanPan salami soudjouk 11$
+	Neapolitan hotpapper onion 13$
+	Softdrink 2$
+	Total: 26$
+Custormer List:
+88 Antonio Giovanni 568-8964142
+27 Emit Brown 234-3456789
+21 Hasan Erdal 256-3456789
+45 Hatice AK 568-8969746
+12 John Smith 312-4567890
+4 Osman Kurt 568-8967812
+33 sampleName sampleSurname 234-5677896
